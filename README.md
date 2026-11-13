@@ -106,34 +106,41 @@ These tasks demonstrated how much technical information can be uncovered simply 
 ## 8. Evidences Collected
 
 ### WHOIS Results
-![WHOIS Results](screenshots/whois-results.jpg)
+<img width="1366" height="662" alt="Whois Results" src="https://github.com/user-attachments/assets/1a8857e0-c6a6-49d7-b759-a74d92056382" />
+
 
 ### WhatWeb Results
-![WhatWeb Results](screenshots/whatweb-results.jpg)
+<img width="1366" height="662" alt="whatweb results" src="https://github.com/user-attachments/assets/62e8965e-8db6-4fcf-a879-4c2393b70166" />
+
 
 ### Nslookup Results
-![Nslookup Results](screenshots/nslookup-results.jpg)
+<img width="1366" height="662" alt="nslookupresults" src="https://github.com/user-attachments/assets/60e3eeca-29d4-49ff-a447-a6d241695e84" />
+
 
 ### Curl Results
-![Curl Results](screenshots/curl-results.jpg)
+<img width="1366" height="662" alt="curl results" src="https://github.com/user-attachments/assets/2eac2536-2b80-4daf-9986-121d4e5e0321" />
+
 
 ### Wafw00f Results
-![Wafw00f Results](screenshots/wafw00f-results.jpg)
+<img width="1366" height="662" alt="wafw00f results" src="https://github.com/user-attachments/assets/e7a5ccd4-1c47-483d-943d-8103ce1d0dca" />
+
 
 ### DNSRecon Results
-![DNSRecon Results](screenshots/dnsrecon-results.jpg)
+<img width="1366" height="662" alt="dnsrecon results" src="https://github.com/user-attachments/assets/9c6fee18-13de-4eb9-88da-3b4029f8569e" />
+
 
 ### IPConfig & Zenmap Scan Results
-![Zenmap Scan](screenshots/zenmap-scan.jpg)
+<img width="1363" height="724" alt="ipconfig-Zenmap" src="https://github.com/user-attachments/assets/d0d3c967-c5ca-4f0d-a4d8-d143e4bc28f9" />
+
 
 ### Zenmap Topology
-![Topology](screenshots/topology.jpg)
+<img width="1317" height="713" alt="topology-zenmap" src="https://github.com/user-attachments/assets/d2f4fd26-a7f9-40bf-9f69-893a21fd7c40" />
+
 
 ---
 
 ## 👤 Author
 * **Ali ur Rehman Qureshi** (Cybersecurity Professional - B084)
-* **LinkedIn:** [A.R. Qureshi](https://www.linkedin.com/in/a-r-qureshi/)
 
 ## 📌 Project Information
 * **Program Name:** Cybersecurity program at Networkwalks
